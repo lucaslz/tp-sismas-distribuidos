@@ -1,0 +1,21 @@
+version: "2"
+
+networks:
+    gearman:
+        driver: bridge
+services:
+    gearman:
+        image: "lysender/ubuntu-gearman"
+        container_name: gearman-server
+        ports:
+            - 4731:4730
+        networks:
+            - gearman
+    worker:
+        image: "lysender/ubuntu-gearman-worker-php"
+        container_name: gearman-worker-one
+        volumes:
+            - ./:/var/www/scripts/
+        entrypoint: "php /var/www/scripts/worker.php"
+        networks:
+            - gearman

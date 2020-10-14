@@ -1,0 +1,20 @@
+{
+    "name": "lucaslima/tp-sistemas-distribuidos-433",
+    "description": "Criar um sistemas distribuido com as mesmas caracteristicas de produtor consumidor",
+    "type": "project",
+    "require": {
+        "monolog/monolog": "^2.1",
+        "pimple/pimple": "~3.0"
+    },
+    "authors": [
+        {
+            "name": "Lucas Lima",
+            "email": "lucas.developmaster@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "src/"
+        }
+    }
+}

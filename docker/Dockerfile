@@ -1,5 +1,5 @@
 FROM lysender/php
-MAINTAINER Leonel Baer <leonel@lysender.com>
+LABEL maintainer="Leonel Baer <leonel@lysender.com>"
 
 RUN yum -y install supervisor \
     libevent \
