@@ -1,21 +1,33 @@
 version: "2"
 
 networks:
-    gearman:
-        driver: bridge
+    default:
+        external:
+            name: rede_gearman
 services:
     gearman:
-        image: "lysender/ubuntu-gearman"
+        image: "lucaslz/ubuntu-gearman"
         container_name: gearman-server
         ports:
             - 4731:4730
         networks:
-            - gearman
-    worker:
-        image: "lysender/ubuntu-gearman-worker-php"
-        container_name: gearman-worker-one
+            default:
+                ipv4_address: 172.25.0.2
+    consumer_one:
+        image: "lucaslz/ubuntu-gearman-worker-php"
+        container_name: gearman-consumer-one
         volumes:
             - ./:/var/www/scripts/
-        entrypoint: "php /var/www/scripts/worker.php"
+        entrypoint: "php /var/www/scripts/consumer.php"
         networks:
-            - gearman
+            default:
+                ipv4_address: 172.25.0.3
+    consumer_two:
+        image: "lucaslz/ubuntu-gearman-worker-php"
+        container_name: gearman-consumer-two
+        volumes:
+            - ./:/var/www/scripts/
+        entrypoint: "php /var/www/scripts/consumer.php"
+        networks:
+            default:
+                ipv4_address: 172.25.0.4

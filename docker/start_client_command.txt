@@ -1,1 +1,0 @@
-docker run -it --rm --name test-gearman-client --network docker-gearman-worker-php_gearman -v "$PWD":/var/www teste-gearman-server php client.php

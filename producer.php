@@ -1,14 +1,19 @@
 <?php
 
-$worker = new GearmanWorker();
-$worker->addServer('gearman'); // gearman hostname is linked, required
+$cliente = new GearmanClient();
+$cliente->addServer('172.25.0.2', 4730);
 
-$worker->addFunction('countWords', 'doCountWords', $count = 0);
+$cliente->setCompleteCallback('done');
 
-while ($worker->work());
-
-function doCountWords(GearmanJob $job, &$count) {
-    $count++;
-    return $count . ': ' . strrev($job->workload()) . "\n";
+for ($i=0; $i < 5; $i++) {
+        $cliente->addTask('countWords', 'Hello Monica!', null, $i);
 }
+
+$cliente->runTasks();
+echo "DONE\n";
+
+function done(GearmanTask $task) {
+        echo $task->data() . ' | ' . $task->unique() . "\n";
+}
+
 
