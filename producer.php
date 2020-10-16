@@ -18,8 +18,6 @@ $container['logger-producer']->info('Tasks dos producer finalizadas com sucesso.
 
 function done(GearmanTask $task) {
         $date = new DateTime();
-        // echo $task->data() . "\nID da operação: " . $task->unique() . "\n Data da operação: " . $date->format('Y-m-d H:i:s');
-
         $dados = sprintf("%s \nID da operação: %s \nData da operação: %s\n",
                 $task->data(),
                 $task->unique(),
