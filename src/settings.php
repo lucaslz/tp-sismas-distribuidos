@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Defines some default settings for the software
+ * Definicao das configuracoes padroes para a aplicacao
  *
  * @author Lucas Lima <lucasdevelopmaster@email.com>
  */

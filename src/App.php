@@ -5,26 +5,32 @@ namespace app;
 use Pimple\Container;
 
 /**
- * Class responsible for managing basic configurations
+ * Classe responsabel por gerenciar as configuracoes basicas da aplicacao,
+ * como o gerenciado de dependencia as blibiotecas baixadas pelo composer
  *
  * @author Lucas Lima <lucasdevelopmaster@gmail.com>
  */
 class App
 {
     /**
-     * basic configurations
+     * Configuracoes basicas
      *
      * @var array
      */
     private $settings;
 
     /**
-     * Depedency injection
+     * Injecao de dependencia
      *
      * @var Pimple\Container;
      */
     private $container;
 
+    /**
+     * Construtor padrao da classe
+     *
+     * @param array $settings
+     */
     public function __construct($settings = [])
     {
         if (!empty($settings)) {
@@ -37,7 +43,7 @@ class App
     }
 
     /**
-     * Get the value of settings
+     * Busca o array de configuracoes
      */
     public function getSettings()
     {
@@ -45,7 +51,7 @@ class App
     }
 
     /**
-     * Set the value of settings
+     * Seta o array de configuracoes
      *
      * @return  self
      */
@@ -57,7 +63,7 @@ class App
     }
 
     /**
-     * Get depedency injection
+     * Retorna o gerenciador de dependencias
      *
      * @return  Pimple\Container;
      */

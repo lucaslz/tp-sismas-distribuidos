@@ -2,6 +2,7 @@ FROM php:5.6.33-cli
 
 LABEL maintainer="Lucas Lima <developmaster@gmail.com"
 
+# Instalando principais pacotes para configuracao do sistema
 RUN apt-get update && apt-get install --no-install-recommends -y \
         libfreetype6-dev \
         libjpeg62-turbo-dev \
@@ -20,8 +21,10 @@ RUN apt-get update && apt-get install --no-install-recommends -y \
         binutils-gold \
         camlp4-extra
 
+# Criando link simbolico da biblioteca do linux e movendo para pasta /usr/lib
 RUN ln -sf /usr/lib/x86_64-linux-gnu/libsybdb.a /usr/lib/
 
+# Instalando algumas bibliotecas via pecl
 RUN pecl install \
     ssh2-0.13 \
     gearman \
@@ -34,6 +37,7 @@ RUN curl -sS https://getcomposer.org/installer | php -- \
         --install-dir=/usr/local/bin \
         --filename=composer
 
+# Instalando bibliotecas disponíveis diretamente pelo docker
 RUN docker-php-ext-install -j$(nproc) \
         iconv \
     	json \
@@ -53,40 +57,31 @@ RUN docker-php-ext-install -j$(nproc) \
     	--with-freetype-dir=/usr/include/ \
     	--with-jpeg-dir=/usr/include/
 
+# Instalando o code snife e o PHP cs fixes para testar o codigo
 RUN pear install PHP_CodeSniffer
-#RUN pear channel-discover pear.pdepend.org
-#RUN pear install pdepend/PHP_Depend
-# Instalando o PHP_Depend de outra forma
-#RUN curl http://static.pdepend.org/php/latest/pdepend.phar -o /usr/local/bin/pdepend
-#RUN chmod a+x /usr/local/bin/pdepend
-
-#RUN pear channel-discover pear.phpmd.org
-#RUN pear install phpmd/PHP_PMD
 RUN curl http://get.sensiolabs.org/php-cs-fixer.phar -o /usr/local/bin/php-cs-fixer
 RUN chmod a+x /usr/local/bin/php-cs-fixer
 
+# Baixando e configurando biblioteca pfff
 RUN cd /opt/
 RUN git clone --depth=1 https://github.com/facebook/pfff.git
 RUN cd pfff && ./configure && make depend && make && make opt
 
+# Criando pasta e arquivos de logs, e dando as devidas permissoes
 RUN mkdir -p /var/log/php
 RUN touch /var/log/php/php-cli_errors.log
 RUN chmod 777 -R /var/log/php/php-cli_errors.log
 
-# COPY phpunit /usr/local/bin/phpunit
-
-# COPY php.ini_prod /usr/local/etc/php/conf.d/php.ini
-
+# Remover caches dos pacotes
 RUN apt-get clean \
     && rm -rf /var/lib/apt/lists/*
 
+# Definindo timezone dos containers
 RUN echo "America/Sao_Paulo" > /etc/timezone
 RUN dpkg-reconfigure -f noninteractive tzdata
 
+# Definindo o diretorio de trabalho
 WORKDIR /var/www
 
-COPY init_service_worker.sh /var/www
-
+# Expondo portas que seram utilizadas
 EXPOSE 9000 4730
-
-#ENTRYPOINT ["/var/www/init_service_worker.sh"]

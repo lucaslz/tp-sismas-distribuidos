@@ -1,13 +1,16 @@
 <?php
 /**
- * Dependency injection configuration file (DIC configuration)
+ * Arquivo de configuracao de injecao de dependencia (DIC configuration)
+ *
  * @author Lucas Lima <lucasdevelopmaster@gmail.com>
  * @api 1.0.0
  */
 
- $container = $app->getContainer();
+//Buscando o container de configuracao
+$container = $app->getContainer();
 
- $container['logger'] = function($c) {
+//Configuracao do log do consumidor
+$container['logger'] = function($c) {
     $settings = $c['settings']['logger'];
     $logger = new Monolog\Logger($settings['name']);
     $logger->pushProcessor(new Monolog\Processor\UidProcessor());
@@ -15,6 +18,7 @@
     return $logger;
 };
 
+//Configuracao do log do produtor
 $container['logger-producer'] = function($c) {
     $settings = $c['settings']['logger-producer'];
     $logger = new Monolog\Logger($settings['name']);
