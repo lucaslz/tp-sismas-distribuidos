@@ -24,16 +24,13 @@ class Monitor
      */
     public function init(GearmanJob $job)
     {
-        $fileName = $job->workload();
-        $dir = __DIR__ . "/static_files/" . $fileName;
-
-        $data = file_get_contents($dir);
-
-        return "O arquivo " . $fileName . " tem: " . str_word_count($data) . " palavras.";
+        $dados = $job->workload();
+        return "O arquivo " . $fileName . " tem: " . str_word_count($dados) . " palavras.";
     }
 }
 
-// Iniciado o Gearman e adicionando o IP do servidor que faz a ponte entre produtor e consumidor
+// Iniciado o Gearman e adicionando o IP do servidor que
+// faz a ponte entre produtor e consumidor
 $container['logger']->info('Iniciado consumidor.');
 $worker = new GearmanWorker();
 $worker->addServer('gearman');

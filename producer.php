@@ -6,7 +6,8 @@ date_default_timezone_set('UTC');
 // Iniciando configuracoes basicas e bibliotecas externas
 require __DIR__ . "/index.php";
 
-// Iniciando o consumidor, e adicionar o IP e porta do servidor que faz a ponte entre produtor e consumidor
+// Iniciando o consumidor, e adicionar o IP e porta do servidor que
+// faz a ponte entre produtor e consumidor
 $container['logger-producer']->info('Iniciado producer.');
 $cliente = new GearmanClient();
 $cliente->addServer('172.25.0.2', 4730);
@@ -16,12 +17,14 @@ $container['logger-producer']->info('Definindo mensagem callback de sucesso no p
 $cliente->setCompleteCallback('done');
 
 // Callbacks para tratamento de erros
-$gmc->setStatusCallback("getMonitorStatus");
-$gmc->setFailCallback("getMonitorFail");
+$cliente->setStatusCallback("reverse_status");
+$cliente->setFailCallback("reverse_fail");
 
 // Pegando o arquivo e passando para o monitor
 $container['logger-producer']->info('Enfileirando consumidores para mandar o arquivo.');
-$cliente->addTask('getMonitor', $argv[1]);
+$dir = __DIR__ . "/static_files/" . $argv[1];
+$dados = file_get_contents($dir);
+$cliente->addTask('getMonitor', $dados);
 
 // Rodando as tasks
 $cliente->runTasks();
