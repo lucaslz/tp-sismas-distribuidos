@@ -18,6 +18,7 @@ services:
         container_name: gearman-consumer-one
         volumes:
             - ./:/var/www/scripts/
+            - ./logs/:/var/logs/tp-sd/
         entrypoint: "php /var/www/scripts/consumer.php"
         networks:
             default:
@@ -27,6 +28,7 @@ services:
         container_name: gearman-consumer-two
         volumes:
             - ./:/var/www/scripts/
+            - ./logs/:/var/logs/tp-sd/
         entrypoint: "php /var/www/scripts/consumer.php"
         networks:
             default:

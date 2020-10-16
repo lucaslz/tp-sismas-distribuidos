@@ -1,19 +1,31 @@
 <?php
+date_default_timezone_set('UTC');
 
+require __DIR__ . "/index.php";
+
+$container['logger-producer']->info('Iniciado producer.');
 $cliente = new GearmanClient();
 $cliente->addServer('172.25.0.2', 4730);
 
+$container['logger-producer']->info('Definindo mensagem callback de sucesso no producer');
 $cliente->setCompleteCallback('done');
 
-for ($i=0; $i < 5; $i++) {
-        $cliente->addTask('countWords', 'Hello Monica!', null, $i);
-}
+$container['logger-producer']->info('Enfileirando consumidores para mandar o arquivo.');
+$cliente->addTask('getMonitor', $argv[1]);
 
 $cliente->runTasks();
-echo "DONE\n";
+$container['logger-producer']->info('Tasks dos producer finalizadas com sucesso.');
 
 function done(GearmanTask $task) {
-        echo $task->data() . ' | ' . $task->unique() . "\n";
+        $date = new DateTime();
+        // echo $task->data() . "\nID da operação: " . $task->unique() . "\n Data da operação: " . $date->format('Y-m-d H:i:s');
+
+        $dados = sprintf("%s \nID da operação: %s \nData da operação: %s\n",
+                $task->data(),
+                $task->unique(),
+                $date->format('Y-m-d H:i:s')
+        );
+        echo $dados;
 }
 
 

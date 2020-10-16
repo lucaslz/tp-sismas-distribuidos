@@ -1,0 +1,382 @@
+[2020-10-15 20:49:25] consumer.INFO: Iniciando sistema. [] {"uid":"64d9315"}
+[2020-10-15 20:49:25] consumer.INFO: Iniciado consumidor. [] {"uid":"64d9315"}
+[2020-10-15 20:49:25] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"64d9315"}
+[2020-10-15 20:49:25] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"64d9315"}
+[2020-10-15 20:49:25] consumer.INFO: Iniciando sistema. [] {"uid":"7547684"}
+[2020-10-15 20:49:25] consumer.INFO: Iniciado consumidor. [] {"uid":"7547684"}
+[2020-10-15 20:49:25] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"7547684"}
+[2020-10-15 20:49:25] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"7547684"}
+[2020-10-15 20:49:41] producer.INFO: Iniciado producer. [] {"uid":"7de4ef7"}
+[2020-10-15 20:49:41] producer.INFO: Definindo mensagem callback de sucesso no producer [] {"uid":"7de4ef7"}
+[2020-10-15 20:49:41] producer.INFO: Enfileirando consumidores para mandar o arquivo. [] {"uid":"7de4ef7"}
+[2020-10-15 20:54:43] consumer.INFO: Iniciando sistema. [] {"uid":"eb93697"}
+[2020-10-15 20:54:43] consumer.INFO: Iniciado consumidor. [] {"uid":"eb93697"}
+[2020-10-15 20:54:43] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"eb93697"}
+[2020-10-15 20:54:43] consumer.INFO: Iniciando sistema. [] {"uid":"caf3037"}
+[2020-10-15 20:54:43] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"eb93697"}
+[2020-10-15 20:54:43] consumer.INFO: Iniciado consumidor. [] {"uid":"caf3037"}
+[2020-10-15 20:54:43] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"caf3037"}
+[2020-10-15 20:54:43] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"caf3037"}
+[2020-10-15 20:57:04] consumer.INFO: Iniciando sistema. [] {"uid":"5f5735d"}
+[2020-10-15 20:57:04] consumer.INFO: Iniciado consumidor. [] {"uid":"5f5735d"}
+[2020-10-15 20:57:04] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"5f5735d"}
+[2020-10-15 20:57:04] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"5f5735d"}
+[2020-10-15 20:57:05] consumer.INFO: Iniciando sistema. [] {"uid":"b2660f6"}
+[2020-10-15 20:57:05] consumer.INFO: Iniciado consumidor. [] {"uid":"b2660f6"}
+[2020-10-15 20:57:05] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"b2660f6"}
+[2020-10-15 20:57:05] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"b2660f6"}
+[2020-10-15 20:58:20] consumer.INFO: Iniciando sistema. [] {"uid":"dd105ec"}
+[2020-10-15 20:58:20] consumer.INFO: Iniciado consumidor. [] {"uid":"dd105ec"}
+[2020-10-15 20:58:20] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"dd105ec"}
+[2020-10-15 20:58:20] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"dd105ec"}
+[2020-10-15 20:58:20] consumer.INFO: Iniciando sistema. [] {"uid":"8b4e5e8"}
+[2020-10-15 20:58:20] consumer.INFO: Iniciado consumidor. [] {"uid":"8b4e5e8"}
+[2020-10-15 20:58:20] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"8b4e5e8"}
+[2020-10-15 20:58:20] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"8b4e5e8"}
+[2020-10-15 20:59:24] producer.INFO: Iniciado producer. [] {"uid":"4afae21"}
+[2020-10-15 20:59:24] producer.INFO: Definindo mensagem callback de sucesso no producer [] {"uid":"4afae21"}
+[2020-10-15 20:59:24] producer.INFO: Enfileirando consumidores para mandar o arquivo. [] {"uid":"4afae21"}
+[2020-10-15 21:14:46] consumer.INFO: Iniciando sistema. [] {"uid":"f061846"}
+[2020-10-15 21:14:46] consumer.INFO: Iniciado consumidor. [] {"uid":"f061846"}
+[2020-10-15 21:14:46] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"f061846"}
+[2020-10-15 21:14:46] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"f061846"}
+[2020-10-15 21:14:47] consumer.INFO: Iniciando sistema. [] {"uid":"d2d222e"}
+[2020-10-15 21:14:47] consumer.INFO: Iniciado consumidor. [] {"uid":"d2d222e"}
+[2020-10-15 21:14:47] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"d2d222e"}
+[2020-10-15 21:14:47] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"d2d222e"}
+[2020-10-15 21:18:17] producer.INFO: Iniciado producer. [] {"uid":"335a3ff"}
+[2020-10-15 21:18:17] producer.INFO: Definindo mensagem callback de sucesso no producer [] {"uid":"335a3ff"}
+[2020-10-15 21:18:17] producer.INFO: Enfileirando consumidores para mandar o arquivo. [] {"uid":"335a3ff"}
+[2020-10-15 21:24:47] consumer.INFO: Iniciando sistema. [] {"uid":"a545840"}
+[2020-10-15 21:24:47] consumer.INFO: Iniciado consumidor. [] {"uid":"a545840"}
+[2020-10-15 21:24:47] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"a545840"}
+[2020-10-15 21:24:47] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"a545840"}
+[2020-10-15 21:24:47] consumer.INFO: Iniciando sistema. [] {"uid":"0a1fa29"}
+[2020-10-15 21:24:47] consumer.INFO: Iniciado consumidor. [] {"uid":"0a1fa29"}
+[2020-10-15 21:24:48] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"0a1fa29"}
+[2020-10-15 21:24:48] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"0a1fa29"}
+[2020-10-15 21:25:25] producer.INFO: Iniciado producer. [] {"uid":"e080382"}
+[2020-10-15 21:25:25] producer.INFO: Definindo mensagem callback de sucesso no producer [] {"uid":"e080382"}
+[2020-10-15 21:25:25] producer.INFO: Enfileirando consumidores para mandar o arquivo. [] {"uid":"e080382"}
+[2020-10-15 21:33:19] consumer.INFO: Iniciando sistema. [] {"uid":"93603ef"}
+[2020-10-15 21:33:19] consumer.INFO: Iniciado consumidor. [] {"uid":"93603ef"}
+[2020-10-15 21:33:19] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"93603ef"}
+[2020-10-15 21:33:19] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"93603ef"}
+[2020-10-15 21:33:20] consumer.INFO: Iniciando sistema. [] {"uid":"cac40ac"}
+[2020-10-15 21:33:20] consumer.INFO: Iniciado consumidor. [] {"uid":"cac40ac"}
+[2020-10-15 21:33:20] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"cac40ac"}
+[2020-10-15 21:33:20] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"cac40ac"}
+[2020-10-15 21:33:33] producer.INFO: Iniciado producer. [] {"uid":"44ea1a9"}
+[2020-10-15 21:33:33] producer.INFO: Definindo mensagem callback de sucesso no producer [] {"uid":"44ea1a9"}
+[2020-10-15 21:33:33] producer.INFO: Enfileirando consumidores para mandar o arquivo. [] {"uid":"44ea1a9"}
+[2020-10-15 21:33:33] producer.INFO: Tasks dos producer finalizadas com sucesso. [] {"uid":"44ea1a9"}
+[2020-10-15 21:42:31] consumer.INFO: Iniciando sistema. [] {"uid":"ae6bd4d"}
+[2020-10-15 21:42:31] consumer.INFO: Iniciado consumidor. [] {"uid":"ae6bd4d"}
+[2020-10-15 21:42:31] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"ae6bd4d"}
+[2020-10-15 21:42:31] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"ae6bd4d"}
+[2020-10-15 21:42:32] consumer.INFO: Iniciando sistema. [] {"uid":"1b4fc19"}
+[2020-10-15 21:42:32] consumer.INFO: Iniciado consumidor. [] {"uid":"1b4fc19"}
+[2020-10-15 21:42:32] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"1b4fc19"}
+[2020-10-15 21:42:32] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"1b4fc19"}
+[2020-10-15 21:42:50] producer.INFO: Iniciado producer. [] {"uid":"b446bc8"}
+[2020-10-15 21:42:50] producer.INFO: Definindo mensagem callback de sucesso no producer [] {"uid":"b446bc8"}
+[2020-10-15 21:42:50] producer.INFO: Enfileirando consumidores para mandar o arquivo. [] {"uid":"b446bc8"}
+[2020-10-15 21:44:18] consumer.INFO: Iniciando sistema. [] {"uid":"39f6c98"}
+[2020-10-15 21:44:18] consumer.INFO: Iniciado consumidor. [] {"uid":"39f6c98"}
+[2020-10-15 21:44:18] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"39f6c98"}
+[2020-10-15 21:44:18] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"39f6c98"}
+[2020-10-15 21:44:18] consumer.INFO: Iniciando sistema. [] {"uid":"096c337"}
+[2020-10-15 21:44:18] consumer.INFO: Iniciado consumidor. [] {"uid":"096c337"}
+[2020-10-15 21:44:18] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"096c337"}
+[2020-10-15 21:44:18] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"096c337"}
+[2020-10-15 21:44:32] producer.INFO: Iniciado producer. [] {"uid":"1d7b9fc"}
+[2020-10-15 21:44:32] producer.INFO: Definindo mensagem callback de sucesso no producer [] {"uid":"1d7b9fc"}
+[2020-10-15 21:44:32] producer.INFO: Enfileirando consumidores para mandar o arquivo. [] {"uid":"1d7b9fc"}
+[2020-10-15 21:48:05] consumer.INFO: Iniciando sistema. [] {"uid":"c724520"}
+[2020-10-15 21:48:05] consumer.INFO: Iniciado consumidor. [] {"uid":"c724520"}
+[2020-10-15 21:48:05] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"c724520"}
+[2020-10-15 21:48:05] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"c724520"}
+[2020-10-15 21:48:05] consumer.INFO: Iniciando sistema. [] {"uid":"e599dfd"}
+[2020-10-15 21:48:05] consumer.INFO: Iniciado consumidor. [] {"uid":"e599dfd"}
+[2020-10-15 21:48:05] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"e599dfd"}
+[2020-10-15 21:48:05] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"e599dfd"}
+[2020-10-15 21:48:30] producer.INFO: Iniciado producer. [] {"uid":"9152b5b"}
+[2020-10-15 21:48:30] producer.INFO: Definindo mensagem callback de sucesso no producer [] {"uid":"9152b5b"}
+[2020-10-15 21:48:30] producer.INFO: Enfileirando consumidores para mandar o arquivo. [] {"uid":"9152b5b"}
+[2020-10-15 21:59:31] consumer.INFO: Iniciando sistema. [] {"uid":"91a1688"}
+[2020-10-15 21:59:31] consumer.INFO: Iniciado consumidor. [] {"uid":"91a1688"}
+[2020-10-15 21:59:31] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"91a1688"}
+[2020-10-15 21:59:31] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"91a1688"}
+[2020-10-15 21:59:32] consumer.INFO: Iniciando sistema. [] {"uid":"3935ae0"}
+[2020-10-15 21:59:32] consumer.INFO: Iniciado consumidor. [] {"uid":"3935ae0"}
+[2020-10-15 21:59:32] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"3935ae0"}
+[2020-10-15 21:59:32] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"3935ae0"}
+[2020-10-15 22:00:02] producer.INFO: Iniciado producer. [] {"uid":"2b2c720"}
+[2020-10-15 22:00:02] producer.INFO: Definindo mensagem callback de sucesso no producer [] {"uid":"2b2c720"}
+[2020-10-15 22:00:02] producer.INFO: Enfileirando consumidores para mandar o arquivo. [] {"uid":"2b2c720"}
+[2020-10-15 22:00:02] producer.INFO: Tasks dos producer finalizadas com sucesso. [] {"uid":"2b2c720"}
+[2020-10-15 22:02:06] consumer.INFO: Iniciando sistema. [] {"uid":"496591d"}
+[2020-10-15 22:02:06] consumer.INFO: Iniciado consumidor. [] {"uid":"496591d"}
+[2020-10-15 22:02:06] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"496591d"}
+[2020-10-15 22:02:06] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"496591d"}
+[2020-10-15 22:02:06] consumer.INFO: Iniciando sistema. [] {"uid":"6598362"}
+[2020-10-15 22:02:07] consumer.INFO: Iniciado consumidor. [] {"uid":"6598362"}
+[2020-10-15 22:02:07] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"6598362"}
+[2020-10-15 22:02:07] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"6598362"}
+[2020-10-15 22:02:42] producer.INFO: Iniciado producer. [] {"uid":"b7c2a49"}
+[2020-10-15 22:02:42] producer.INFO: Definindo mensagem callback de sucesso no producer [] {"uid":"b7c2a49"}
+[2020-10-15 22:02:42] producer.INFO: Enfileirando consumidores para mandar o arquivo. [] {"uid":"b7c2a49"}
+[2020-10-15 22:02:42] producer.INFO: Tasks dos producer finalizadas com sucesso. [] {"uid":"b7c2a49"}
+[2020-10-15 22:03:50] consumer.INFO: Iniciando sistema. [] {"uid":"1afad00"}
+[2020-10-15 22:03:50] consumer.INFO: Iniciado consumidor. [] {"uid":"1afad00"}
+[2020-10-15 22:03:50] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"1afad00"}
+[2020-10-15 22:03:50] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"1afad00"}
+[2020-10-15 22:03:50] consumer.INFO: Iniciando sistema. [] {"uid":"03601ec"}
+[2020-10-15 22:03:50] consumer.INFO: Iniciado consumidor. [] {"uid":"03601ec"}
+[2020-10-15 22:03:50] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"03601ec"}
+[2020-10-15 22:03:50] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"03601ec"}
+[2020-10-15 22:04:03] producer.INFO: Iniciado producer. [] {"uid":"226048b"}
+[2020-10-15 22:04:03] producer.INFO: Definindo mensagem callback de sucesso no producer [] {"uid":"226048b"}
+[2020-10-15 22:04:03] producer.INFO: Enfileirando consumidores para mandar o arquivo. [] {"uid":"226048b"}
+[2020-10-15 22:06:12] consumer.INFO: Iniciando sistema. [] {"uid":"d871671"}
+[2020-10-15 22:06:12] consumer.INFO: Iniciado consumidor. [] {"uid":"d871671"}
+[2020-10-15 22:06:12] consumer.INFO: Iniciando sistema. [] {"uid":"498c1dc"}
+[2020-10-15 22:06:12] consumer.INFO: Iniciado consumidor. [] {"uid":"498c1dc"}
+[2020-10-15 22:06:12] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"498c1dc"}
+[2020-10-15 22:06:12] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"498c1dc"}
+[2020-10-15 22:06:12] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"d871671"}
+[2020-10-15 22:06:12] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"d871671"}
+[2020-10-15 22:14:32] producer.INFO: Iniciado producer. [] {"uid":"bb2f52e"}
+[2020-10-15 22:14:32] producer.INFO: Definindo mensagem callback de sucesso no producer [] {"uid":"bb2f52e"}
+[2020-10-15 22:14:32] producer.INFO: Enfileirando consumidores para mandar o arquivo. [] {"uid":"bb2f52e"}
+[2020-10-15 22:17:05] consumer.INFO: Iniciando sistema. [] {"uid":"09ff5dd"}
+[2020-10-15 22:17:05] consumer.INFO: Iniciado consumidor. [] {"uid":"09ff5dd"}
+[2020-10-15 22:17:05] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"09ff5dd"}
+[2020-10-15 22:17:05] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"09ff5dd"}
+[2020-10-15 22:17:05] consumer.INFO: Iniciando sistema. [] {"uid":"fc5f384"}
+[2020-10-15 22:17:05] consumer.INFO: Iniciado consumidor. [] {"uid":"fc5f384"}
+[2020-10-15 22:17:05] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"fc5f384"}
+[2020-10-15 22:17:05] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"fc5f384"}
+[2020-10-15 22:28:55] producer.INFO: Iniciado producer. [] {"uid":"4b9a18b"}
+[2020-10-15 22:28:55] producer.INFO: Definindo mensagem callback de sucesso no producer [] {"uid":"4b9a18b"}
+[2020-10-15 22:28:55] producer.INFO: Enfileirando consumidores para mandar o arquivo. [] {"uid":"4b9a18b"}
+[2020-10-15 22:47:10] consumer.INFO: Iniciando sistema. [] {"uid":"6e89596"}
+[2020-10-15 22:47:10] consumer.INFO: Iniciado consumidor. [] {"uid":"6e89596"}
+[2020-10-15 22:47:10] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"6e89596"}
+[2020-10-15 22:47:10] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"6e89596"}
+[2020-10-15 22:47:10] consumer.INFO: Iniciando sistema. [] {"uid":"7e6bafc"}
+[2020-10-15 22:47:10] consumer.INFO: Iniciado consumidor. [] {"uid":"7e6bafc"}
+[2020-10-15 22:47:10] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"7e6bafc"}
+[2020-10-15 22:47:10] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"7e6bafc"}
+[2020-10-15 22:50:58] producer.INFO: Iniciado producer. [] {"uid":"998616f"}
+[2020-10-15 22:50:58] producer.INFO: Definindo mensagem callback de sucesso no producer [] {"uid":"998616f"}
+[2020-10-15 22:50:58] producer.INFO: Enfileirando consumidores para mandar o arquivo. [] {"uid":"998616f"}
+[2020-10-15 22:50:58] producer.INFO: Tasks dos producer finalizadas com sucesso. [] {"uid":"998616f"}
+[2020-10-15 22:52:18] consumer.INFO: Iniciando sistema. [] {"uid":"78c19f2"}
+[2020-10-15 22:52:18] consumer.INFO: Iniciado consumidor. [] {"uid":"78c19f2"}
+[2020-10-15 22:52:18] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"78c19f2"}
+[2020-10-15 22:52:18] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"78c19f2"}
+[2020-10-15 22:52:19] consumer.INFO: Iniciando sistema. [] {"uid":"e8e7126"}
+[2020-10-15 22:52:19] consumer.INFO: Iniciado consumidor. [] {"uid":"e8e7126"}
+[2020-10-15 22:52:19] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"e8e7126"}
+[2020-10-15 22:52:19] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"e8e7126"}
+[2020-10-15 22:57:44] consumer.INFO: Iniciando sistema. [] {"uid":"3d2f978"}
+[2020-10-15 22:57:44] consumer.INFO: Iniciado consumidor. [] {"uid":"3d2f978"}
+[2020-10-15 22:57:44] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"3d2f978"}
+[2020-10-15 22:57:44] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"3d2f978"}
+[2020-10-15 22:57:44] consumer.INFO: Iniciando sistema. [] {"uid":"d3fd794"}
+[2020-10-15 22:57:44] consumer.INFO: Iniciado consumidor. [] {"uid":"d3fd794"}
+[2020-10-15 22:57:44] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"d3fd794"}
+[2020-10-15 22:57:44] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"d3fd794"}
+[2020-10-15 22:58:14] producer.INFO: Iniciado producer. [] {"uid":"f525e5a"}
+[2020-10-15 22:58:14] producer.INFO: Definindo mensagem callback de sucesso no producer [] {"uid":"f525e5a"}
+[2020-10-15 22:58:14] producer.INFO: Enfileirando consumidores para mandar o arquivo. [] {"uid":"f525e5a"}
+[2020-10-15 22:58:14] producer.INFO: Tasks dos producer finalizadas com sucesso. [] {"uid":"f525e5a"}
+[2020-10-15 23:01:05] consumer.INFO: Iniciando sistema. [] {"uid":"115d8b7"}
+[2020-10-15 23:01:05] consumer.INFO: Iniciado consumidor. [] {"uid":"115d8b7"}
+[2020-10-15 23:01:05] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"115d8b7"}
+[2020-10-15 23:01:05] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"115d8b7"}
+[2020-10-15 23:01:05] consumer.INFO: Iniciando sistema. [] {"uid":"650faf1"}
+[2020-10-15 23:01:05] consumer.INFO: Iniciado consumidor. [] {"uid":"650faf1"}
+[2020-10-15 23:01:05] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"650faf1"}
+[2020-10-15 23:01:05] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"650faf1"}
+[2020-10-15 23:01:17] producer.INFO: Iniciado producer. [] {"uid":"08e951a"}
+[2020-10-15 23:01:17] producer.INFO: Definindo mensagem callback de sucesso no producer [] {"uid":"08e951a"}
+[2020-10-15 23:01:17] producer.INFO: Enfileirando consumidores para mandar o arquivo. [] {"uid":"08e951a"}
+[2020-10-15 23:04:33] consumer.INFO: Iniciando sistema. [] {"uid":"8c27f4b"}
+[2020-10-15 23:04:33] consumer.INFO: Iniciado consumidor. [] {"uid":"8c27f4b"}
+[2020-10-15 23:04:33] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"8c27f4b"}
+[2020-10-15 23:04:33] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"8c27f4b"}
+[2020-10-15 23:04:33] consumer.INFO: Iniciando sistema. [] {"uid":"e73c45b"}
+[2020-10-15 23:04:33] consumer.INFO: Iniciado consumidor. [] {"uid":"e73c45b"}
+[2020-10-15 23:04:33] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"e73c45b"}
+[2020-10-15 23:04:33] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"e73c45b"}
+[2020-10-15 23:05:16] producer.INFO: Iniciado producer. [] {"uid":"f29292a"}
+[2020-10-15 23:05:16] producer.INFO: Definindo mensagem callback de sucesso no producer [] {"uid":"f29292a"}
+[2020-10-15 23:05:16] producer.INFO: Enfileirando consumidores para mandar o arquivo. [] {"uid":"f29292a"}
+[2020-10-15 23:08:28] consumer.INFO: Iniciando sistema. [] {"uid":"196609e"}
+[2020-10-15 23:08:28] consumer.INFO: Iniciado consumidor. [] {"uid":"196609e"}
+[2020-10-15 23:08:28] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"196609e"}
+[2020-10-15 23:08:28] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"196609e"}
+[2020-10-15 23:08:28] consumer.INFO: Iniciando sistema. [] {"uid":"600ac28"}
+[2020-10-15 23:08:28] consumer.INFO: Iniciado consumidor. [] {"uid":"600ac28"}
+[2020-10-15 23:08:28] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"600ac28"}
+[2020-10-15 23:08:28] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"600ac28"}
+[2020-10-15 23:09:27] producer.INFO: Iniciado producer. [] {"uid":"dcd875e"}
+[2020-10-15 23:09:27] producer.INFO: Definindo mensagem callback de sucesso no producer [] {"uid":"dcd875e"}
+[2020-10-15 23:09:27] producer.INFO: Enfileirando consumidores para mandar o arquivo. [] {"uid":"dcd875e"}
+[2020-10-15 23:28:29] consumer.INFO: Iniciando sistema. [] {"uid":"fb8c1c8"}
+[2020-10-15 23:28:29] consumer.INFO: Iniciado consumidor. [] {"uid":"fb8c1c8"}
+[2020-10-15 23:28:29] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"fb8c1c8"}
+[2020-10-15 23:28:29] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"fb8c1c8"}
+[2020-10-15 23:28:29] consumer.INFO: Iniciando sistema. [] {"uid":"0dc3c15"}
+[2020-10-15 23:28:29] consumer.INFO: Iniciado consumidor. [] {"uid":"0dc3c15"}
+[2020-10-15 23:28:29] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"0dc3c15"}
+[2020-10-15 23:28:29] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"0dc3c15"}
+[2020-10-15 23:29:05] producer.INFO: Iniciado producer. [] {"uid":"bbc979c"}
+[2020-10-15 23:29:05] producer.INFO: Definindo mensagem callback de sucesso no producer [] {"uid":"bbc979c"}
+[2020-10-15 23:29:05] producer.INFO: Enfileirando consumidores para mandar o arquivo. [] {"uid":"bbc979c"}
+[2020-10-15 23:31:14] consumer.INFO: Iniciando sistema. [] {"uid":"e463418"}
+[2020-10-15 23:31:14] consumer.INFO: Iniciado consumidor. [] {"uid":"e463418"}
+[2020-10-15 23:31:14] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"e463418"}
+[2020-10-15 23:31:14] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"e463418"}
+[2020-10-15 23:31:15] consumer.INFO: Iniciando sistema. [] {"uid":"704d805"}
+[2020-10-15 23:31:15] consumer.INFO: Iniciado consumidor. [] {"uid":"704d805"}
+[2020-10-15 23:31:15] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"704d805"}
+[2020-10-15 23:31:15] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"704d805"}
+[2020-10-15 23:33:39] consumer.INFO: Iniciando sistema. [] {"uid":"b06284f"}
+[2020-10-15 23:33:39] consumer.INFO: Iniciado consumidor. [] {"uid":"b06284f"}
+[2020-10-15 23:33:39] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"b06284f"}
+[2020-10-15 23:33:39] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"b06284f"}
+[2020-10-15 23:33:39] consumer.INFO: Iniciando sistema. [] {"uid":"23b7e8e"}
+[2020-10-15 23:33:39] consumer.INFO: Iniciado consumidor. [] {"uid":"23b7e8e"}
+[2020-10-15 23:33:39] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"23b7e8e"}
+[2020-10-15 23:33:39] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"23b7e8e"}
+[2020-10-15 23:33:59] producer.INFO: Iniciado producer. [] {"uid":"82a8313"}
+[2020-10-15 23:33:59] producer.INFO: Definindo mensagem callback de sucesso no producer [] {"uid":"82a8313"}
+[2020-10-15 23:33:59] producer.INFO: Enfileirando consumidores para mandar o arquivo. [] {"uid":"82a8313"}
+[2020-10-15 23:33:59] producer.INFO: Tasks dos producer finalizadas com sucesso. [] {"uid":"82a8313"}
+[2020-10-15 23:36:08] consumer.INFO: Iniciando sistema. [] {"uid":"749b4f7"}
+[2020-10-15 23:36:08] consumer.INFO: Iniciado consumidor. [] {"uid":"749b4f7"}
+[2020-10-15 23:36:08] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"749b4f7"}
+[2020-10-15 23:36:08] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"749b4f7"}
+[2020-10-15 23:36:09] consumer.INFO: Iniciando sistema. [] {"uid":"e6c5d00"}
+[2020-10-15 23:36:09] consumer.INFO: Iniciado consumidor. [] {"uid":"e6c5d00"}
+[2020-10-15 23:36:09] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"e6c5d00"}
+[2020-10-15 23:36:09] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"e6c5d00"}
+[2020-10-15 23:38:19] consumer.INFO: Iniciando sistema. [] {"uid":"26df039"}
+[2020-10-15 23:38:19] consumer.INFO: Iniciado consumidor. [] {"uid":"26df039"}
+[2020-10-15 23:38:19] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"26df039"}
+[2020-10-15 23:38:19] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"26df039"}
+[2020-10-15 23:38:20] consumer.INFO: Iniciando sistema. [] {"uid":"5f4ec9a"}
+[2020-10-15 23:38:20] consumer.INFO: Iniciado consumidor. [] {"uid":"5f4ec9a"}
+[2020-10-15 23:38:20] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"5f4ec9a"}
+[2020-10-15 23:38:20] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"5f4ec9a"}
+[2020-10-15 23:38:39] producer.INFO: Iniciado producer. [] {"uid":"4a60318"}
+[2020-10-15 23:38:39] producer.INFO: Definindo mensagem callback de sucesso no producer [] {"uid":"4a60318"}
+[2020-10-15 23:38:39] producer.INFO: Enfileirando consumidores para mandar o arquivo. [] {"uid":"4a60318"}
+[2020-10-15 23:38:39] producer.INFO: Tasks dos producer finalizadas com sucesso. [] {"uid":"4a60318"}
+[2020-10-15 23:42:18] consumer.INFO: Iniciando sistema. [] {"uid":"5f51ff1"}
+[2020-10-15 23:42:19] consumer.INFO: Iniciado consumidor. [] {"uid":"5f51ff1"}
+[2020-10-15 23:42:19] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"5f51ff1"}
+[2020-10-15 23:42:19] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"5f51ff1"}
+[2020-10-15 23:42:19] consumer.INFO: Iniciando sistema. [] {"uid":"677517d"}
+[2020-10-15 23:42:19] consumer.INFO: Iniciado consumidor. [] {"uid":"677517d"}
+[2020-10-15 23:42:19] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"677517d"}
+[2020-10-15 23:42:19] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"677517d"}
+[2020-10-15 23:42:30] producer.INFO: Iniciado producer. [] {"uid":"fc408b1"}
+[2020-10-15 23:42:30] producer.INFO: Definindo mensagem callback de sucesso no producer [] {"uid":"fc408b1"}
+[2020-10-15 23:42:30] producer.INFO: Enfileirando consumidores para mandar o arquivo. [] {"uid":"fc408b1"}
+[2020-10-15 23:46:45] producer.INFO: Iniciado producer. [] {"uid":"8d622ac"}
+[2020-10-15 23:46:45] producer.INFO: Definindo mensagem callback de sucesso no producer [] {"uid":"8d622ac"}
+[2020-10-15 23:46:45] producer.INFO: Enfileirando consumidores para mandar o arquivo. [] {"uid":"8d622ac"}
+[2020-10-15 23:49:03] consumer.INFO: Iniciando sistema. [] {"uid":"991621d"}
+[2020-10-15 23:49:03] consumer.INFO: Iniciado consumidor. [] {"uid":"991621d"}
+[2020-10-15 23:49:03] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"991621d"}
+[2020-10-15 23:49:03] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"991621d"}
+[2020-10-15 23:49:04] consumer.INFO: Iniciando sistema. [] {"uid":"14c5350"}
+[2020-10-15 23:49:04] consumer.INFO: Iniciado consumidor. [] {"uid":"14c5350"}
+[2020-10-15 23:49:04] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"14c5350"}
+[2020-10-15 23:49:04] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"14c5350"}
+[2020-10-15 23:49:40] producer.INFO: Iniciado producer. [] {"uid":"2184fec"}
+[2020-10-15 23:49:40] producer.INFO: Definindo mensagem callback de sucesso no producer [] {"uid":"2184fec"}
+[2020-10-15 23:49:40] producer.INFO: Enfileirando consumidores para mandar o arquivo. [] {"uid":"2184fec"}
+[2020-10-15 23:53:36] consumer.INFO: Iniciando sistema. [] {"uid":"1572877"}
+[2020-10-15 23:53:36] consumer.INFO: Iniciado consumidor. [] {"uid":"1572877"}
+[2020-10-15 23:53:36] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"1572877"}
+[2020-10-15 23:53:36] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"1572877"}
+[2020-10-15 23:53:37] consumer.INFO: Iniciando sistema. [] {"uid":"bb14ad9"}
+[2020-10-15 23:53:37] consumer.INFO: Iniciado consumidor. [] {"uid":"bb14ad9"}
+[2020-10-15 23:53:37] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"bb14ad9"}
+[2020-10-15 23:53:37] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"bb14ad9"}
+[2020-10-15 23:53:58] producer.INFO: Iniciado producer. [] {"uid":"c7a58d9"}
+[2020-10-15 23:53:58] producer.INFO: Definindo mensagem callback de sucesso no producer [] {"uid":"c7a58d9"}
+[2020-10-15 23:53:58] producer.INFO: Enfileirando consumidores para mandar o arquivo. [] {"uid":"c7a58d9"}
+[2020-10-15 23:56:44] consumer.INFO: Iniciando sistema. [] {"uid":"ff41f87"}
+[2020-10-15 23:56:44] consumer.INFO: Iniciado consumidor. [] {"uid":"ff41f87"}
+[2020-10-15 23:56:44] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"ff41f87"}
+[2020-10-15 23:56:44] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"ff41f87"}
+[2020-10-15 23:56:44] consumer.INFO: Iniciando sistema. [] {"uid":"c399706"}
+[2020-10-15 23:56:44] consumer.INFO: Iniciado consumidor. [] {"uid":"c399706"}
+[2020-10-15 23:56:44] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"c399706"}
+[2020-10-15 23:56:44] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"c399706"}
+[2020-10-15 23:56:58] producer.INFO: Iniciado producer. [] {"uid":"d274cc4"}
+[2020-10-15 23:56:58] producer.INFO: Definindo mensagem callback de sucesso no producer [] {"uid":"d274cc4"}
+[2020-10-15 23:56:58] producer.INFO: Enfileirando consumidores para mandar o arquivo. [] {"uid":"d274cc4"}
+[2020-10-15 23:56:58] producer.INFO: Tasks dos producer finalizadas com sucesso. [] {"uid":"d274cc4"}
+[2020-10-15 23:57:30] producer.INFO: Iniciado producer. [] {"uid":"d498889"}
+[2020-10-15 23:57:30] producer.INFO: Definindo mensagem callback de sucesso no producer [] {"uid":"d498889"}
+[2020-10-15 23:57:30] producer.INFO: Enfileirando consumidores para mandar o arquivo. [] {"uid":"d498889"}
+[2020-10-15 23:57:30] producer.INFO: Tasks dos producer finalizadas com sucesso. [] {"uid":"d498889"}
+[2020-10-15 23:58:02] producer.INFO: Iniciado producer. [] {"uid":"a42df7e"}
+[2020-10-15 23:58:02] producer.INFO: Definindo mensagem callback de sucesso no producer [] {"uid":"a42df7e"}
+[2020-10-15 23:58:02] producer.INFO: Enfileirando consumidores para mandar o arquivo. [] {"uid":"a42df7e"}
+[2020-10-15 23:58:03] producer.INFO: Tasks dos producer finalizadas com sucesso. [] {"uid":"a42df7e"}
+[2020-10-15 23:58:27] producer.INFO: Iniciado producer. [] {"uid":"8e35903"}
+[2020-10-15 23:58:27] producer.INFO: Definindo mensagem callback de sucesso no producer [] {"uid":"8e35903"}
+[2020-10-15 23:58:27] producer.INFO: Enfileirando consumidores para mandar o arquivo. [] {"uid":"8e35903"}
+[2020-10-15 23:58:27] producer.INFO: Tasks dos producer finalizadas com sucesso. [] {"uid":"8e35903"}
+[2020-10-16 00:02:34] consumer.INFO: Iniciando sistema. [] {"uid":"a2b7c42"}
+[2020-10-16 00:02:34] consumer.INFO: Iniciado consumidor. [] {"uid":"a2b7c42"}
+[2020-10-16 00:02:34] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"a2b7c42"}
+[2020-10-16 00:02:34] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"a2b7c42"}
+[2020-10-16 00:02:35] consumer.INFO: Iniciando sistema. [] {"uid":"b7b8660"}
+[2020-10-16 00:02:35] consumer.INFO: Iniciado consumidor. [] {"uid":"b7b8660"}
+[2020-10-16 00:02:35] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"b7b8660"}
+[2020-10-16 00:02:35] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"b7b8660"}
+[2020-10-16 00:02:50] producer.INFO: Iniciado producer. [] {"uid":"d38bf9f"}
+[2020-10-16 00:02:50] producer.INFO: Definindo mensagem callback de sucesso no producer [] {"uid":"d38bf9f"}
+[2020-10-16 00:02:50] producer.INFO: Enfileirando consumidores para mandar o arquivo. [] {"uid":"d38bf9f"}
+[2020-10-16 00:02:50] producer.INFO: Tasks dos producer finalizadas com sucesso. [] {"uid":"d38bf9f"}
+[2020-10-16 00:06:39] producer.INFO: Iniciado producer. [] {"uid":"ec6f727"}
+[2020-10-16 00:06:39] producer.INFO: Definindo mensagem callback de sucesso no producer [] {"uid":"ec6f727"}
+[2020-10-16 00:06:39] producer.INFO: Enfileirando consumidores para mandar o arquivo. [] {"uid":"ec6f727"}
+[2020-10-16 00:06:39] producer.INFO: Tasks dos producer finalizadas com sucesso. [] {"uid":"ec6f727"}
+[2020-10-16 00:08:09] consumer.INFO: Iniciando sistema. [] {"uid":"3a7d2c1"}
+[2020-10-16 00:08:09] consumer.INFO: Iniciado consumidor. [] {"uid":"3a7d2c1"}
+[2020-10-16 00:08:09] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"3a7d2c1"}
+[2020-10-16 00:08:09] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"3a7d2c1"}
+[2020-10-16 00:08:09] consumer.INFO: Iniciando sistema. [] {"uid":"ceed129"}
+[2020-10-16 00:08:09] consumer.INFO: Iniciado consumidor. [] {"uid":"ceed129"}
+[2020-10-16 00:08:09] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"ceed129"}
+[2020-10-16 00:08:09] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"ceed129"}
+[2020-10-16 00:08:20] producer.INFO: Iniciado producer. [] {"uid":"c5717ea"}
+[2020-10-16 00:08:20] producer.INFO: Definindo mensagem callback de sucesso no producer [] {"uid":"c5717ea"}
+[2020-10-16 00:08:20] producer.INFO: Enfileirando consumidores para mandar o arquivo. [] {"uid":"c5717ea"}
+[2020-10-16 00:08:20] producer.INFO: Tasks dos producer finalizadas com sucesso. [] {"uid":"c5717ea"}
+[2020-10-16 00:11:06] consumer.INFO: Iniciando sistema. [] {"uid":"6bd1c13"}
+[2020-10-16 00:11:06] consumer.INFO: Iniciado consumidor. [] {"uid":"6bd1c13"}
+[2020-10-16 00:11:06] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"6bd1c13"}
+[2020-10-16 00:11:06] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"6bd1c13"}
+[2020-10-16 00:11:06] consumer.INFO: Iniciando sistema. [] {"uid":"b0df49c"}
+[2020-10-16 00:11:06] consumer.INFO: Iniciado consumidor. [] {"uid":"b0df49c"}
+[2020-10-16 00:11:06] consumer.INFO: Criando espelho entre funcoes no consumidor. [] {"uid":"b0df49c"}
+[2020-10-16 00:11:06] consumer.INFO: Colocando consumidor para ficar escutando. [] {"uid":"b0df49c"}
+[2020-10-16 00:11:49] producer.INFO: Iniciado producer. [] {"uid":"14d793b"}
+[2020-10-16 00:11:49] producer.INFO: Definindo mensagem callback de sucesso no producer [] {"uid":"14d793b"}
+[2020-10-16 00:11:49] producer.INFO: Enfileirando consumidores para mandar o arquivo. [] {"uid":"14d793b"}
+[2020-10-16 00:11:49] producer.INFO: Tasks dos producer finalizadas com sucesso. [] {"uid":"14d793b"}
+[2020-10-16 00:13:14] producer.INFO: Iniciado producer. [] {"uid":"eac63d2"}
+[2020-10-16 00:13:14] producer.INFO: Definindo mensagem callback de sucesso no producer [] {"uid":"eac63d2"}
+[2020-10-16 00:13:14] producer.INFO: Enfileirando consumidores para mandar o arquivo. [] {"uid":"eac63d2"}
+[2020-10-16 00:13:14] producer.INFO: Tasks dos producer finalizadas com sucesso. [] {"uid":"eac63d2"}

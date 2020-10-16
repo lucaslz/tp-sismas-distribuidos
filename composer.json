@@ -3,8 +3,8 @@
     "description": "Criar um sistemas distribuido com as mesmas caracteristicas de produtor consumidor",
     "type": "project",
     "require": {
-        "monolog/monolog": "^2.1",
-        "pimple/pimple": "~3.0"
+        "monolog/monolog": "1.25.5",
+        "pimple/pimple": "3.0.0"
     },
     "authors": [
         {
