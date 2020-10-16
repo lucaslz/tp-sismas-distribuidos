@@ -1,6 +1,4 @@
-# Generic Gearman Worker for PHP
+# Aplicação PHP de producer e consumer baseada no Gearman
 
-Generic Gearman Worker for PHP. You must already have a running Gearman server for this to work.
-
-You can use my Gearman server: https://github.com/lysender/docker-gearman
+Aplicando os conceitos de clientes, servidores e threads em sistemas distribuídos, utilizando o gearman, juntamente com o conceito Produtor-Consumidor.
 
